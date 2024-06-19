@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-assert-is-diagonal-type/tags). For example,
+
+```javascript
 import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@v0.0.1-esm/index.mjs';
 ```
 
@@ -93,7 +98,7 @@ bool = isDiagonalType( 'non-unit' );
 <body>
 <script type="module">
 
-import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@v0.0.1-esm/index.mjs';
+import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@esm/index.mjs';
 
 var bool = isDiagonalType( 'unit' );
 // returns true
