@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-assert-is-diagonal-type/tags). For example,
+
+```javascript
 import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@v0.0.1-deno/mod.js';
 ```
 
@@ -88,7 +93,7 @@ bool = isDiagonalType( 'non-unit' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@v0.0.1-deno/mod.js';
+import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@deno/mod.js';
 
 var bool = isDiagonalType( 'unit' );
 // returns true
