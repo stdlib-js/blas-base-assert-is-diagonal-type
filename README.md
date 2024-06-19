@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@esm/index.mjs';
+import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@v0.0.1-esm/index.mjs';
 ```
 
 #### isDiagonalType( value )
@@ -93,7 +93,7 @@ bool = isDiagonalType( 'non-unit' );
 <body>
 <script type="module">
 
-import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@esm/index.mjs';
+import isDiagonalType from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-assert-is-diagonal-type@v0.0.1-esm/index.mjs';
 
 var bool = isDiagonalType( 'unit' );
 // returns true
