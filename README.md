@@ -167,7 +167,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -180,8 +180,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/blas-base-assert-is-diagonal-type.svg
 [npm-url]: https://npmjs.org/package/@stdlib/blas-base-assert-is-diagonal-type
 
-[test-image]: https://github.com/stdlib-js/blas-base-assert-is-diagonal-type/actions/workflows/test.yml/badge.svg?branch=v0.0.1
-[test-url]: https://github.com/stdlib-js/blas-base-assert-is-diagonal-type/actions/workflows/test.yml?query=branch:v0.0.1
+[test-image]: https://github.com/stdlib-js/blas-base-assert-is-diagonal-type/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/blas-base-assert-is-diagonal-type/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-base-assert-is-diagonal-type/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-base-assert-is-diagonal-type?branch=main
